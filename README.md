@@ -1,4 +1,4 @@
-# XcodeGhost
+﻿# XcodeGhost
 "XcodeGhost" Source
 关于所谓”XcodeGhost”的澄清
 
@@ -13,3 +13,6 @@
 需要强调的是，XcodeGhost不会影响任何App的使用，更不会获取隐私数据，仅仅是一段已经死亡的代码。
 
 再次真诚的致歉，愿大家周末愉快
+
+
+66666
